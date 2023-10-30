@@ -11,31 +11,6 @@ Curate a list of digital marketing tools, categorized by purpose, with links to 
 
 If you are a software engineer and want to make some extra bucks, make sure you visit [Software Engineer Affiliate Program Hub](https://github.com/digital-marketing-engineer/software-engineer-affiliate-program-hub) to join several affiliate program that suitable for software engineer. There are also useful guides on [there](https://github.com/digital-marketing-engineer/software-engineer-affiliate-program-hub#useful-guide-in-this-repo).
 
-### :arrow_heading_up:Submit your tools
-<details>
-  <summary>Share tools you use!</summary>
-  <br>  
-  
-  Create an issue or PR on this repository to submit your tool. 
-  <br>  
-  
-Note: We carefully evaluate and select digital marketing tools based on their relevance, quality, and alignment with our community's interests.
-  
-</details>
-
-### :open_hands:Affiliate disclosure
-<details>
-  <br>  
-  This Digital Marketing Tools repository may contain affiliate links. When you click on these links and make a purchase or take action, we may earn a commission at no additional cost to you.
-  <br>  
-  <br>  
-
-  We carefully select and review tools relevant to digital marketing.
-  <br>  
-  We appreciate your support, which helps us maintain and improve this repository. Your trust is important to us, and we are committed to providing transparent and reliable information. If you have any questions or concerns, please feel free to reach out to us.
-</details>
-
-
 ## **1. Search Engine Optimization (SEO) Tools**
 
 Search Engine Optimization (SEO) is crucial for improving your website's visibility in search engine results. To help you with your SEO efforts, here's a list of popular SEO tools and their key features:
@@ -395,3 +370,30 @@ Many thanks to these contributor:
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
+
+### :arrow_heading_up:Submit your tools
+<details>
+  <summary>Share tools you use!</summary>
+  <br>  
+  
+  Create an issue or PR on this repository to submit your tool. 
+  <br>  
+  
+Note: We carefully evaluate and select digital marketing tools based on their relevance, quality, and alignment with our community's interests.
+  
+</details>
+
+### :open_hands:Affiliate disclosure
+<details>
+  <br>  
+  This Digital Marketing Tools repository may contain affiliate links. When you click on these links and make a purchase or take action, we may earn a commission at no additional cost to you.
+  <br>  
+  <br>  
+
+  We carefully select and review tools relevant to digital marketing.
+  <br>  
+  We appreciate your support, which helps us maintain and improve this repository. Your trust is important to us, and we are committed to providing transparent and reliable information. If you have any questions or concerns, please feel free to reach out to us.
+</details>
+
+### License
+CC-0
