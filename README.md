@@ -105,6 +105,15 @@ Search Engine Optimization (SEO) is crucial for improving your website's visibil
   - Social engagement tracking.
   - Influencer identification for content promotion.
 
+### [DAXRM](https://www.daxrm.com/)
+
+- **Features:**
+  - Client Portal – Manage multiple clients seamlessly.
+  - Keyword Research & Analysis – Discover high-performing keywords.
+  - Rank Tracker – Monitor keyword rankings and performance metrics.
+  - Digital Marketing Reporting Tool – Automate and schedule powerful reports.
+  - Project Management – Streamline tasks, teams, and workflows.
+
 These SEO tools offer a range of features to help optimize websites for search engines, monitor performance, and improve rankings. Depending on your specific needs and goals, you can choose the tool that best suits your requirements.
 
 
