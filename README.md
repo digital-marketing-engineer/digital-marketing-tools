@@ -105,6 +105,13 @@ Search Engine Optimization (SEO) is crucial for improving your website's visibil
   - Social engagement tracking.
   - Influencer identification for content promotion.
 
+### [AdMapix](https://www.admapix.com/)
+
+- **Features:**
+  - Search competitor ad creatives by keyword, country, date, creative type, and industry.
+  - Research creative patterns for campaign planning and competitive analysis.
+  - Query the workflow through a public MCP server and OpenClaw skill.
+
 These SEO tools offer a range of features to help optimize websites for search engines, monitor performance, and improve rankings. Depending on your specific needs and goals, you can choose the tool that best suits your requirements.
 
 
