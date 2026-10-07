@@ -311,6 +311,14 @@ Here is a list of social media management tools along with their key features:
 - Data Sharing and Collaboration
 - Real-time Data Updates
 
+### [FollowerBestellen.de Engagement Calculator (German)](https://followerbestellen.de/tools/engagement-rate)
+
+- Free browser calculation from manually entered likes and comments
+- Select followers, reach or views as the denominator
+- Method and example explain why different denominator ratios are not directly comparable
+- No account or profile connection required; raw inputs remain in the browser
+- Proprietary calculator; the parent site also offers paid followers, likes and views
+
 ## **6. Pay-Per-Click (PPC) Advertising Tools**
 
 ### [Google Ads (formerly AdWords)](https://ads.google.com/)
