@@ -160,6 +160,10 @@ Here is a list of social media management tools along with their key features:
 - Optimize headlines for social posts.
 - Manage team workflows and approvals.
 
+### [OpenSparta](https://opensparta.com/en)
+
+- Telegram operations SaaS workspace for conversation discovery, connected-account management, and proxy operations.
+
 
 ## **3. Email Marketing Software**
 
